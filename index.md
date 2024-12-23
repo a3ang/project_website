@@ -24,8 +24,8 @@ affiliations:
     school: "Chung-Ang University"
 
 
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-demo: https://www.youtube.com/results?search_query=turing+machine
+paper: https://drive.google.com/file/d/1cMaETOQGHbarZg9cqOc6X7N-96pwtC7s/view?usp=sharing
+demo: https://6679fcf3d6588f6543.gradio.live
 homepage: https://www.vilab.cau.ac.kr/
 ---
 
@@ -66,8 +66,8 @@ SCENEDERELLA aims to democratize 3D scene creation by providing a user-friendly 
 *Figure 1: A Framework of SCENEDERELLA.*
 
 
-## Significance
-Turing's paper laid the foundation for the theory of computation and had a profound impact on the development of computer science. The Turing machine became a fundamental concept in theoretical computer science, serving as a theoretical model for studying the limits and capabilities of computation. Turing's work also influenced the development of programming languages, algorithms, and the design of modern computers.
+## Acknowledgment
+This work was partly supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (2021-0-01341, Artificial Intelligence Graduate School Program(Chung-Ang University)) and the MSIT(Ministry of Science and ICT), Korea, under the Graduate School of Metaverse Convergence support program(IITP-2023(2024)-RS-2024-00418847) supervised by the IITP.
 
 ## Citation
 ```
