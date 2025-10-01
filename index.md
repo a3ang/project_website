@@ -70,14 +70,12 @@ SCENEDERELLA aims to democratize 3D scene creation by providing a user-friendly 
 This work was partly supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (2021-0-01341, Artificial Intelligence Graduate School Program(Chung-Ang University)) and the MSIT(Ministry of Science and ICT), Korea, under the Graduate School of Metaverse Convergence support program(IITP-2023(2024)-RS-2024-00418847) supervised by the IITP.
 
 ## Citation
-```
-@article{turing1936computable,
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
+@inproceedings{lee2025scenederella,
+  title={SCENEDERELLA: Text-Driven 3D Scene Generation for Realistic Artboard},
+  author={Lee, Jungmin and Noh, Haeun and Lee, Jaeyoon and Choi, Jongwon},
+  booktitle={2025 IEEE International Conference on Consumer Electronics (ICCE)},
+  pages={1--6},
+  year={2025},
+  organization={IEEE}
 }
 ```
